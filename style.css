@@ -1,0 +1,252 @@
+html
+{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(209, 204, 204);
+}
+
+.Header
+{
+    background-color: black;
+    width: 100%;
+    height: 70px;
+    color: red;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.navigasi
+{
+    background-color: black;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    margin-top: 3px;
+}
+
+.navigasi > ul
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navigasi > ul > li
+{
+    list-style-type: none;
+    padding: 15px;
+}
+
+.navigasi > ul > li > a
+{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.navigasi > ul > li > a:hover
+{
+    color: crimson;
+    transition: all .6s ease-in-out;
+}
+
+.content
+{
+    width: 100%;
+    height: auto;
+    margin-top: none;
+}
+
+.content > h2
+{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.content > p
+{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.content > img
+{
+    max-width: 320px;
+    float: left;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-right: 15px;
+    display: flex;
+}
+
+.content2
+{
+    width: 100%;
+    height: auto;
+    margin-top: 100px;
+}
+
+.content2> h2
+{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.content2 > p
+{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.content2 > img
+{
+    max-width: 320px;
+    float: right;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-right: 15px;
+    display: flex;
+}
+
+.content3
+{
+    width: 100%;
+    height: auto;
+    margin-top: 100px;
+}
+
+.content3> h2
+{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.content3 > p
+{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.content3 > img
+{
+    max-width: 320px;
+    float: left;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-right: 15px;
+    display: flex;
+}
+
+.content4
+{
+    width: 100%;
+    height: auto;
+    margin-top: 100px;
+}
+
+.content4> h2
+{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.content4 > p
+{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.content4 > img
+{
+    max-width: 320px;
+    float: right;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-right: 15px;
+    display: flex;
+}
+
+.content5
+{
+    width: 100%;
+    height: auto;
+    margin-top: 100px;
+}
+
+.content5> h2
+{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.content5 > p
+{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.content5 > img
+{
+    max-width: 320px;
+    float: left;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-right: 15px;
+    display: flex;
+}
+
+.footercontainer
+{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(39, 37, 37);
+    margin-top: 100px;
+}
+
+.footer > ul
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.footer > ul > li
+{
+    list-style-type: none;
+    padding: 15px;
+}
+
+.footer > ul > li > a
+{
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 1.3em;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    opacity: 0.7;
+}
+
+.footer > ul > li > a:hover
+{
+    color: crimson;
+    transition: all .6s ease-in-out;
+}
+
+
+
+.footerbottom
+{
+    background-color: black;
+    padding: 1px;
+    text-align: center;
+}
+
+.footerbottom > p
+{
+    color: white;
+}
